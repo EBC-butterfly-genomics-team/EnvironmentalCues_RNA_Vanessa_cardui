@@ -1,4 +1,4 @@
-# Differential expression in Vanessa cardui
+# Differential expression in _Vanessa cardui_
 
 This repository contains analysis code and key intermediate results for "Resource availability modulates gene expression across life stages in a migratory butterfly"
 
